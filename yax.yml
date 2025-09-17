@@ -1,0 +1,5 @@
+build:
+  agentsmd:
+    from:
+      - file:adrs/*.md
+    output: _agents.md
