@@ -13,3 +13,5 @@ To created compiled [_agents.md](_agents.md) file execute the following command:
 ```bash
 yax build
 ```
+
+Yax build is called via [this CI pipeline](.github/workflows/yax.yml), so usually you don't have to run it manually. 
