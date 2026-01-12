@@ -1,0 +1,6 @@
+build:
+  agentsmd:
+    from:
+    - https://github.com/hekonsek/syllaibus/blob/main/_agents.md
+    output: AGENTS.md
+    metadata: null
